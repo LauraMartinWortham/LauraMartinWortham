@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LauraMartinWortham
 - 👀 I’m interested in web developpement and games
-- 🌱 I’m currently learning Java Script (and Python via Ren'Py for a game I'm making)
+- 🌱 I’m currently learning Java Script (and using Ren'Py for a game I'm making)
 - 💞️ I’m looking to collaborate on various projects! 
 - 📫 How to reach me: via mail at lauramarwor@gmail.com mainly!
 - 😄 Pronouns: She/her
