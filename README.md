@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developpement and games
 - 🌱 I’m currently learning Java Script (and using Ren'Py for a game I'm making)
 - 💞️ I’m looking to collaborate on various projects! 
-- 📫 How to reach me: via mail at lauramarwor@gmail.com mainly!
+- 📫 How to reach me: via mail at laura.marwor@gmail.com mainly!
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I was a 3D animator / character designer / illustrator in the past and I love playing visual novels.
 
