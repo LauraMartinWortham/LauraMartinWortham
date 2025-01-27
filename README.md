@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LauraMartinWortham
 - 👀 I’m interested in web developpement and games
-- 🌱 I’m using mainly Javascript for front and back-end development.
+- 🌱 I’m using mainly Javascript for front and back-end development (an developing a visual novel with Ren'Py).
 - 💞️ I’m looking to collaborate on various projects! 
 - 📫 How to reach me: via mail at laura.marwor@gmail.com mainly!
 - 😄 Pronouns: She/her
